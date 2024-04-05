@@ -1,9 +1,9 @@
 - 👋 Salut, je m'appelle Julien
-- 🌱 Actuellement en formation j'ai appris et continue d'apprendre =
+- 🌱 Suite à une reconversion professionnelle en développement web, j'ai appris et continue d'apprendre =
 [
 Terminal BASH, GIT, Python, HTML/CSS, JS, SQL, PHP, Symfony, React, NodeJs,Express
 ]
-- 💞️ Je recherche actuellement un stage en développement Web du 4 octobre au 30 novembre 2023.
+- 💞️ Je recherche actuellement un emploi en développement Web, je suis disponnible dès le 9 avril 2024.
 
 
 <!---
