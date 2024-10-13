@@ -1,5 +1,5 @@
 # Salut ! Je suis Julien PARSY 
-### J'effectue une reconversion professionnelle dans l'inforamtique, j'ai acquis premièrement mon titre professionnel Développement Web & Web mobile, actuellement je suis en apprentissage pour la certification ISTQB Testeur logiciel.
+### J'effectue une reconversion professionnelle dans l'informatique, j'ai acquis premièrement mon titre professionnel Développeur Web & Web mobile, actuellement je suis en apprentissage pour la certification ISTQB Testeur logiciel.
 
 ## Je recherche actuellement un stage de testeur logiciel du 17/02/2025 au 14/03/2025.
 
