@@ -27,8 +27,8 @@ Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre pr
 - **CMS & ERP :** SharePoint, WordPress, Odoo
 
 ## Formation
-- Testeur logiciel : M2i Villeneuve-d’ascq - octobre 2024 à février 2025
-- Titre pro de niveau 5 (BTS) | Développeur Web / Mobile : PopSchool Lens - mai à décembre 2023
+- **Testeur logiciel :** M2i Villeneuve-d’ascq - octobre 2024 à février 2025
+- **Titre pro de niveau 5 (BTS) | Développeur Web / Mobile :** PopSchool Lens - mai à décembre 2023
 
 ## Mon approche  
 
