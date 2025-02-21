@@ -29,6 +29,6 @@ J’accorde une grande importance à la rigueur et à l’organisation dans mon 
 
 Actuellement en **recherche d’opportunités**, je souhaite rejoindre une équipe où je pourrai apporter mon expertise en **test et automatisation**, tout en continuant à explorer et maîtriser de nouvelles technologies.  
 
-## 📫 Contact  
+## Contact  
 
 📍 [LinkedIn](https://www.linkedin.com/in/julien-parsy-a88ab9289/) | ✉️ [Email](parsy.julien@hotmail.fr)  
