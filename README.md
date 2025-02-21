@@ -1,10 +1,10 @@
 # Julien - Testeur QA Automaticien & Développeur Web  
 
-## À propos de moi  
+## À propos de moi :point_down:
 
 Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre professionnel de Développeur Web/Webmobile**, avant de m’orienter vers le **test logiciel et l’automatisation des tests**. Curieux et méthodique, j’aime analyser, expérimenter et améliorer les processus pour garantir des applications fiables et performantes.  
 
-## Compétences  
+## Compétences :muscle:
 
 ### Tests & Automatisation  
 - Automatisation des tests web, mobile et API avec **Playwright, Selenium, Robot Framework, Appium**  
@@ -26,7 +26,7 @@ Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre pr
 - **Versioning :** Git (GitHub)
 - **CMS & ERP :** SharePoint, WordPress, Odoo
 
-## Formation
+## Formation :laptop:
 - **Testeur logiciel :** M2i Villeneuve-d’ascq - octobre 2024 à février 2025
 - **Titre pro de niveau 5 (BTS) | Développeur Web / Mobile :** PopSchool Lens - mai à décembre 2023
 
@@ -39,5 +39,4 @@ J’accorde une grande importance à la **rigueur** et à l’organisation dans 
 Actuellement en **recherche d’opportunités**, je souhaite rejoindre une équipe où je pourrai apporter mon expertise en **test et automatisation**, tout en continuant à explorer et maîtriser de nouvelles technologies.  
 
 ## Contact  
-
-📍 [LinkedIn](https://www.linkedin.com/in/julien-parsy-a88ab9289/) | ✉️ [Email](mailto:parsy.julien@hotmail.fr)  
+:wink: [LinkedIn](https://www.linkedin.com/in/julien-parsy-a88ab9289/) | ✉️ [Email](mailto:parsy.julien@hotmail.fr)  
