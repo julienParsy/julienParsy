@@ -6,20 +6,28 @@ Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre pr
 
 ## Compétences  
 
-### 🧪 Tests & Automatisation  
+### Tests & Automatisation  
 - Automatisation des tests web, mobile et API avec **Playwright, Selenium, Robot Framework, Appium**  
 - Conception et exécution de tests fonctionnels et non fonctionnels    
 - Mise en place de stratégies de tests end-to-end  
 
-### 💻 Développement Web  
+### Développement & Scripting
 - **Langages :** JavaScript, TypeScript, Python, PHP  
 - **Frameworks & Library :** Symfony UX React
 - Intégration et développement front-end avec HTML et CSS  
 
-### 🗄️ Bases de données & Systèmes  
-- **SQL (phpMyAdmin, MySQL)**  
+### Bases de données & Systèmes  
+- **SQL (phpMyAdmin, MySQL, MariaDB)**  
 - **Scripting & Automatisation :** Bash, PowerShell  
-- Connaissances en CI/CD et intégration des tests dans un workflow DevOps  
+- Connaissances en CI/CD et intégration des tests dans un workflow DevOps
+
+### Outils & Environnements
+- **Versioning :** Git (GitHub)
+- **CMS & ERP :** SharePoint, WordPress, Odoo
+
+## Formation
+- Testeur logiciel : M2i Villeneuve-d’ascq - octobre 2024 à février 2025
+- Titre pro de niveau 5 (BTS) | Développeur Web / Mobile : PopSchool Lens - mai à décembre 2023
 
 ## Mon approche  
 
