@@ -40,4 +40,4 @@ Actuellement en **recherche d’opportunités**, je souhaite rejoindre une équi
 
 ## Contact  
 
-📍 [LinkedIn](https://www.linkedin.com/in/julien-parsy-a88ab9289/) | ✉️ [Email](parsy.julien@hotmail.fr)  
+📍 [LinkedIn](https://www.linkedin.com/in/julien-parsy-a88ab9289/) | ✉️ [Email](mailto:parsy.julien@hotmail.fr)  
