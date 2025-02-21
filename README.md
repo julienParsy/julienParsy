@@ -1,6 +1,6 @@
 # Julien - Testeur QA Automaticien & Développeur Web  
 
-## À propos de moi :point_down:
+## À propos de moi 
 
 Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre professionnel de Développeur Web/Webmobile**, avant de m’orienter vers le **test logiciel et l’automatisation des tests**. Curieux et méthodique, j’aime analyser, expérimenter et améliorer les processus pour garantir des applications fiables et performantes.  
 
