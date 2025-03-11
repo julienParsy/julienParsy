@@ -9,6 +9,7 @@ Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre pr
 <details>
 <summary>Tests & Automatisation </summary>
 
+|-----------|
 | Automatisation des tests web, mobile et API avec **Playwright, Selenium, Robot Framework, Appium** |
 | Conception et exécution de tests fonctionnels et non fonctionnels |
 | Mise en place de stratégies de tests end-to-end |
