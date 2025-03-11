@@ -4,17 +4,13 @@
 
 Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre professionnel de Développeur Web/Webmobile**, avant de m’orienter vers le **test logiciel et l’automatisation des tests**. Curieux et méthodique, j’aime analyser, expérimenter et améliorer les processus pour garantir des applications fiables et performantes.  
 
-## Compétences :muscle:
+## Compétences 
 
-<details>
-<summary>Tests & Automatisation </summary>
-
-|-----------|
-| Automatisation des tests web, mobile et API avec **Playwright, Selenium, Robot Framework, Appium** |
-| Conception et exécution de tests fonctionnels et non fonctionnels |
-| Mise en place de stratégies de tests end-to-end |
-| Gestion des tests avec **Jira (XRAY), Squash**  |
-</details>
+### Tests & Automatisation
+- Automatisation des tests web, mobile et API avec **Playwright, Selenium, Robot Framework, Appium**
+- Conception et exécution de tests fonctionnels et non fonctionnels
+- Mise en place de stratégies de tests end-to-end
+- Gestion des tests avec **Jira (XRAY), Squash**
 
 ### Développement & Scripting
 - **Langages :** JavaScript, TypeScript, Python, PHP  
@@ -30,7 +26,7 @@ Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre pr
 - **Versioning :** Git (GitHub)
 - **CMS & ERP :** SharePoint, WordPress, Odoo
 
-## Formation 💻
+## Formation 
 - **Testeur logiciel :** M2i Villeneuve-d’ascq - octobre 2024 à février 2025
 - **Titre pro de niveau 5 (BTS) | Développeur Web / Mobile :** PopSchool Lens - mai à décembre 2023
 
