@@ -6,11 +6,14 @@ Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre pr
 
 ## Compétences :muscle:
 
-### Tests & Automatisation  
-- Automatisation des tests web, mobile et API avec **Playwright, Selenium, Robot Framework, Appium**  
-- Conception et exécution de tests fonctionnels et non fonctionnels    
-- Mise en place de stratégies de tests end-to-end
-- Gestion des tests avec **Jira (XRAY), Squash**  
+<details>
+<summary>Tests & Automatisation </summary>
+
+| Automatisation des tests web, mobile et API avec **Playwright, Selenium, Robot Framework, Appium** |
+| Conception et exécution de tests fonctionnels et non fonctionnels |
+| Mise en place de stratégies de tests end-to-end |
+| Gestion des tests avec **Jira (XRAY), Squash**  |
+</details>
 
 ### Développement & Scripting
 - **Langages :** JavaScript, TypeScript, Python, PHP  
