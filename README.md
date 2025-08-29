@@ -1,6 +1,6 @@
 # Julien Parsy  
 
-## Testeur QA Automaticien & Développeur Web  
+## Développeur Web & Testeur QA Automaticien  
 
 Issu d’une reconversion professionnelle, j’ai d’abord obtenu le **titre professionnel de Développeur Web/Webmobile**, avant de m’orienter vers le **test logiciel et l’automatisation des tests**.  
 Je suis certifié **ISTQB Foundation V4.0** et passionné par la **qualité logicielle, l’automatisation et le développement fullstack**.  
